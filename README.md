@@ -58,10 +58,6 @@ The model includes fact and dimension tables with properly defined relationships
     * Date → Date
 * Ensure no nulls in key columns
 
-### 📸 Screenshot:
-
-(Add screenshot of Power Query Editor)
-
 ---
 
 ## 🔹 Step 3: Load Data
@@ -70,10 +66,6 @@ The model includes fact and dimension tables with properly defined relationships
 
 * Click **Close & Apply**
 * Load cleaned data into model
-
-### 📸 Screenshot:
-
-(Add screenshot after loading data)
 
 ---
 
@@ -100,7 +92,6 @@ Go to **Model View** and create:
 
 ### 📸 Screenshot:
 <img width="1907" height="948" alt="Screenshot 2026-04-05 215222" src="https://github.com/user-attachments/assets/3858250f-e1c7-49e1-bd78-4d54ff8f1939" />
-
 
 ---
 
@@ -159,8 +150,6 @@ So one must remain inactive.
 ---
 
 ## 🔹 Step 8: Create Matrix Visuals (Report View)
-
----
 
 ### 🟦 Visual 1: Sales by Category & Region
 
